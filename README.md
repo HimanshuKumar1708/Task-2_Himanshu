@@ -58,4 +58,7 @@ Dataset-SQL
 ├──SQL Dataset Analying.ipynb  
 ├── README.md
 
+# Author
+Himanshu Kumar
+
  
